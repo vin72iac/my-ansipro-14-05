@@ -1,0 +1,16 @@
+---
+- hosts: all
+  tasks:
+  - name: i wnat to install git
+    apt: 
+      name: git
+      state: paramName:
+        Description: 
+        Type: AWS::EC2::Subnet::Id
+        Default:  
+
+
+
+
+ 
+ 
