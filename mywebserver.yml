@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5de87532ba3160fcc7fe48b6c215545f939a4a24
 ---
 - hosts: all
   tasks:
   - name: install webservers
     apt: 
       name: apache2
+<<<<<<< HEAD
       state: present
+=======
+      state: present
+>>>>>>> 5de87532ba3160fcc7fe48b6c215545f939a4a24
